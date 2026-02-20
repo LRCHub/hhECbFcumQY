@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "アカツキ",
+  "base_artist": "Cha'R",
+  "createdAt": "2026-02-20T09:08:04.041312Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Akatsuki (紅月-アカツキ-)",
+      "artist": "BABYMETAL",
+      "has_synced": true,
+      "path": "select/01_Akatsuki_(紅月-アカツキ-)_BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "紅月-アカツキ-",
+      "artist": "BABYMETAL",
+      "has_synced": true,
+      "path": "select/02_紅月-アカツキ-_BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Akatsuki (Air Vocal Ver.) (紅月-アカツキ-)",
+      "artist": "BABYMETAL",
+      "has_synced": true,
+      "path": "select/03_Akatsuki_(Air_Vocal_Ver.)_(紅月-アカツキ-)_BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Akatsuki (紅月-アカツキ-)",
+      "artist": "BABYMETAL",
+      "has_synced": true,
+      "path": "select/04_Akatsuki_(紅月-アカツキ-)_BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "紅月-アカツキ- (Air Vocal ver.)",
+      "artist": "BABYMETAL",
+      "has_synced": true,
+      "path": "select/05_紅月-アカツキ-_(Air_Vocal_ver.)_BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Akatsuki/アカツキ",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/06_Akatsuki_アカツキ_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アカツキ",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/07_アカツキ_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "紅月 -アカツキ- (Unfinished ver.) [Benitsuki -Akatsuki-]",
+      "artist": "BABYMETAL",
+      "has_synced": true,
+      "path": "select/08_紅月_-アカツキ-_(Unfinished_ver.)_[Benitsuki_-Akatsuki-]_BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "暁月‐アカツキ-",
+      "artist": "BABYMETAL",
+      "has_synced": true,
+      "path": "select/09_暁月‐アカツキ-_BABYMETAL.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アカツキ",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/10_アカツキ_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アカツキ",
+      "artist": "城南海",
+      "has_synced": true,
+      "path": "select/11_アカツキ_城南海.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アカツキ",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/12_アカツキ_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アカツキ",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/13_アカツキ_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "紅月 -アカツキ -",
+      "artist": "BABYMETAL",
+      "has_synced": true,
+      "path": "select/14_紅月_-アカツキ_-_BABYMETAL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アカツキ",
+      "artist": "Cha'R",
+      "has_synced": false,
+      "path": "select/pl_01_アカツキ_Cha'R.txt"
+    }
+  ]
+}
